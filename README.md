@@ -1,1 +1,2 @@
 # practic
+im learning python
