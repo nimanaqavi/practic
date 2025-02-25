@@ -31,3 +31,7 @@ my_list.remove('vahid')
 print(my_list)
 
 print(len(my_list))
+print("end")
+n = x
+print(id(n))
+print(id(x))
